@@ -1,0 +1,9 @@
+﻿acquiree_uuid,acquiree_name,acquirer_name,acquirer_uuid,patent_id,inventor_id,inside_inventor,acquirer_inventor,outside_inventor,team_commingle,inventor_add_city,inventor_add_state,inventor_add_country,inventor_add_lat,inventor_add_lon,temp_id
+000607fc-cea0-535c-6324-e83ba07c8cc7,biovigilant systems,azbil corp,18559d45-1d43-6e73-b186-a42d27c85802,8647860,6459486-2,1,0,0,1,Wellington,CO,US,40.7039,-105.0081,1
+000607fc-cea0-535c-6324-e83ba07c8cc7,biovigilant systems,azbil corp,18559d45-1d43-6e73-b186-a42d27c85802,8647860,7053783-2,1,0,0,1,Tucson,AZ,US,32.2217,-110.9258,1
+000607fc-cea0-535c-6324-e83ba07c8cc7,biovigilant systems,azbil corp,18559d45-1d43-6e73-b186-a42d27c85802,8647860,8647860-3,0,1,0,1,Tucson,AZ,US,32.2217,-110.9258,1
+002e7723-ca64-a785-590c-198524743de5,raven biotechnologies,macrogenics,91efe631-e7e0-4dfa-1f5e-5f101dd2d765,8802091,5652117-1,0,1,0,1,North Bethesda,MD,US,39.0444,-77.1192,2
+002e7723-ca64-a785-590c-198524743de5,raven biotechnologies,macrogenics,91efe631-e7e0-4dfa-1f5e-5f101dd2d765,8802091,6503511-3,0,1,0,1,Darnestown,MD,US,,,2
+002e7723-ca64-a785-590c-198524743de5,raven biotechnologies,macrogenics,91efe631-e7e0-4dfa-1f5e-5f101dd2d765,8802091,7112439-2,0,1,0,1,Bethesda,MD,US,38.9806,-77.1006,2
+002e7723-ca64-a785-590c-198524743de5,raven biotechnologies,macrogenics,91efe631-e7e0-4dfa-1f5e-5f101dd2d765,8802091,7674619-2,1,0,0,1,Belmont,CA,US,37.5203,-122.2747,2
+002e7723-ca64-a785-590c-198524743de5,raven biotechnologies,macrogenics,91efe631-e7e0-4dfa-1f5e-5f101dd2d765,8802091,8802091-5,0,1,0,1,San Francisco,CA,US,37.775,-122.4183,2

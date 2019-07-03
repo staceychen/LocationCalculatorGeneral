@@ -1,0 +1,4 @@
+acquiree_uuid,acquiree_name,acquirer_name,acquirer_uuid,patent_id,inventor_id,inside_inventor,acquirer_inventor,outside_inventor,team_commingle,inventor_add_city,inventor_add_state,inventor_add_country,inventor_add_lat,inventor_add_lon,temp_id
+000607fc-cea0-535c-6324-e83ba07c8cc7,biovigilant systems,azbil corp,18559d45-1d43-6e73-b186-a42d27c85802,8647860,6459486-2,1,0,0,1,Wellington,CO,US,40.7039,-105.0081,1
+000607fc-cea0-535c-6324-e83ba07c8cc7,biovigilant systems,azbil corp,18559d45-1d43-6e73-b186-a42d27c85802,8647860,7053783-2,1,0,0,1,Tucson,AZ,US,32.2217,-110.9258,1
+000607fc-cea0-535c-6324-e83ba07c8cc7,biovigilant systems,azbil corp,18559d45-1d43-6e73-b186-a42d27c85802,8647860,8647860-3,0,1,0,1,Tucson,AZ,US,32.2217,-110.9258,1
